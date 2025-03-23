@@ -1,0 +1,7 @@
+streamlit
+nltk
+transformers
+keybert
+spacy
+requests
+torch
