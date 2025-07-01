@@ -55,3 +55,7 @@ To train the model, follow the steps outlined in `train_model.ipynb`. The notebo
 ## Results
 
 Sample results are displayed in four images along with their model generated captions.
+
+![](Screenshot 2025-07-01 162416.png)
+![](Screenshot 2025-07-01 162524.png)
+![](Screenshot 2025-07-01 162553.png)
